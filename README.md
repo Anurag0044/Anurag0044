@@ -17,8 +17,7 @@
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anurag0044&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anurag0044&icon=6&color=6)](https://visitcount.itsvg.in)
