@@ -1,7 +1,8 @@
 
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5dae0fa6-905f-4d01-941d-41b4c926c991" />
+<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/5dae0fa6-905f-4d01-941d-41b4c926c991" />
 
+---
 ## Hi there,:) 👋
 
 > I build things for the web — from the buttons you click to the servers that power them  >.<
