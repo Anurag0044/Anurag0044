@@ -1,6 +1,7 @@
 
 
-<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/5dae0fa6-905f-4d01-941d-41b4c926c991" />
+<img width="300" height="200" alt="tumblr_8550387f9a7974746f98a3a6e803ef1c_08322b78_640" src="https://github.com/user-attachments/assets/8d6a293d-711d-475d-9b66-cdcb85ec6430" />
+
 
 ---
 ## Hi there,:) 👋
