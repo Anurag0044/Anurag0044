@@ -73,4 +73,4 @@ I'm always growing. Right now I'm exploring:
 
 
 
-*"First, solve the problem. Then, write the code." — John Johnson* :) 
+*"First, solve the problem. Then, write the code." — 
